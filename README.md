@@ -52,4 +52,9 @@ The areas covered in the website included; content management system, local inst
   - The project has strengthened the relationship between the organisation and the host community,In the way that continuation of it will lead to rteduction of the alarming number of school dropout within the settlement which will improve their livelihood.
   
   - capacity building ,the trained participants are now able to solve media related technicalities by themselves,And they are dispersing the skills to the ones who are yet to be recruited.
-  
+  # Achievements;
+  - The project improved the skills of participants in the use of basic computer applications and internet use. 
+  - The trainer possessed the necessary skills to train, we also invited experts to conduct workshops and the participants demonstrated a willingness to learn.
+  - Some participants were slow to learn; they were given more time to practice which slowed down the training progress ,but  however,we managed to meet the schedule by teaming them up through peer-to-peer learning sessions. 
+  - The peer-to-peer teaming up has helped the participants to develop working together and sharing skills.
+  - The boot camp training was planned to have 10 participants, however, we enrolled 9 participants due to a shortage of computers for use. We had 6 computers and 3 of the participants came with their own. 
