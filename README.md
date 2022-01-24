@@ -18,3 +18,7 @@ Contact data
 Mr Vuga William,ED,Vugawilly@gmail.com
 
 Mr Ira Emmanuel,Programs Manager,iraemman@gmail.com
+# The overall project assessment.
+The boot camp started with an orientaion of the participants to the program as a kick off to the training, this was followed by one week basic computer skills assessed by the lead trainer.
+
+In the third week,they were introduced to coding basics and web development which lasted five weeks
