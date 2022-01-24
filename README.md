@@ -41,7 +41,10 @@ The areas covered in the website included; content management system, local inst
   # Overall impacts of the project
   # short- term;
   
-  - The trainees learned to create Repositories, fork, create files in GitHub repository, commit changes in GitHub, GitHub issues, pull requests, merge pull requests, Branches, markdown files. 
+  - The trainees learned to create Repositories, fork, create files in GitHub repository, commit changes in GitHub, GitHub issues, pull requests, merge pull requests, Branches, markdown files.
+   
+   - The project has overall archived its objectives, the participants were able to gain knowledge and practices developed website <RefugeeConnect >not hosted online yet, they also learned content creation and publication on the
+  
   
   - The trainees demonstrated the ability to comfortably use GitHub as a collaborating software for knowledge sharing, they used it to document the web development training guide to make it accessible to the refugees.
   
@@ -53,8 +56,45 @@ The areas covered in the website included; content management system, local inst
   
   - capacity building ,the trained participants are now able to solve media related technicalities by themselves,And they are dispersing the skills to the ones who are yet to be recruited.
   # Achievements;
+  
   - The project improved the skills of participants in the use of basic computer applications and internet use. 
+  
   - The trainer possessed the necessary skills to train, we also invited experts to conduct workshops and the participants demonstrated a willingness to learn.
+  
   - Some participants were slow to learn; they were given more time to practice which slowed down the training progress ,but  however,we managed to meet the schedule by teaming them up through peer-to-peer learning sessions. 
+  
   - The peer-to-peer teaming up has helped the participants to develop working together and sharing skills.
+  
   - The boot camp training was planned to have 10 participants, however, we enrolled 9 participants due to a shortage of computers for use. We had 6 computers and 3 of the participants came with their own. 
+  
+  - The project has overall archived its objectives, the participants were able to gain knowledge and practices developed website <RefugeeConnect >not hosted online yet, they also learned content creation and publication on the websites, this has helped them understand much better the origin of information online. Thus ,it made them understand how media works.
+  
+  - They also acquired skills in the use of documentation/ collaborating software GitHub to share knowledge and collaborate in creating programs.
+  
+  # Challenges;
+  
+  - Some participants were slow to learn; they were given more time to practice which slowed down the training progress ,but  however,we managed to meet the schedule by teaming them up through peer-to-peer learning sessions.
+  
+  - Most of the trainees had limited exposure to computers (Majority do not own computers), this slowed the training progress, we also underestimated the costs for expert fees, hence we couldn’t afford to hire one for App development. 
+   
+  - The boot camp training was planned to have 10 participants, however, we enrolled 9 participants due to a shortage of computers for use. We had 6 computers and 3 of the participants came with their own.
+  
+  - There was aproblem of power,due to hiking of fuel prices It has been a great challenge as working hours reduced with an aim of utilizing the little budget for fuel.
+  
+  - The training gadgets were not enough for participants for example computers.
+  # Sustainability;
+  
+  - The participants have formed a network of experts on web developments,We will facilitate them with computers,power,space and market them to the business entities and other community based organizations to build them website.The website they built< RefugeesConnect> will generate them money in adverts to keep it running by host fee renewal.
+  
+  # Public Relations;
+   
+   
+https://yef-uganda.org/
+https://www.facebook.com/1415857448508218/posts/4472635199497079/
+https://www.facebook.com/1415857448508218/posts/4579757528784845/
+https://www.facebook.com/1415857448508218/posts/4545903232170275/
+
+  # Other remarks;
+  
+  - The Youth Empowerment Foundation (YEF) applauds r0g-agency  for the opportunity given. YEF was able to trained 9 participant to become TOT to led in the community experts, and provide capacity building. We are very grateful for the partnership and are optimistic for more opportunities to work together in the development of media and Technology in the refugee settlement. 
+  
