@@ -4,13 +4,17 @@ Digital Tech Boot  Camp is an initiative and training opportunity for young peop
 Pagirinya refugee settlement in northern uganda.
 # Actual implementation period;
 3 months.
+
 # Actual target population;
 The training targeted 10,But we recruited 9 trainees from pagirinya,4 females,5 males.
 50% of them took part in the previous training and the rest were new to the program.
 Of the 5 trainees from the previous training program,2 were male and 3 were female.
 we shall continue mentoring the trainees to perfect skills which will be employed in the satelite HUB to advance media projects,which will generate incomes for and guide them in pursuing their career.
+
 # The Youth Empowerment Foundation jointly implemented with pagirinya satelite Hub.
 Contact data
 # Names,positions,Emails
+
 Mr Vuga William,ED,Vugawilly@gmail.com
+
 Mr Ira Emmanuel,Programs Manager,iraemman@gmail.com
