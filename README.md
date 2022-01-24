@@ -39,6 +39,11 @@ The areas covered in the website included; content management system, local inst
  
  The participants teamed up to build the RefugeeConnect website, an information platform that publishes content about refugees and makes access to information easy for them.
   # Overall impacts of the project
-  # short- term
+  # short- term;
   
+  - The trainees learned to create Repositories, fork, create files in GitHub repository, commit changes in GitHub, GitHub issues, pull requests, merge pull requests, Branches, markdown files. 
   
+  - The trainees demonstrated the ability to comfortably use GitHub as a collaborating software for knowledge sharing, they used it to document the web development training guide to make it accessible to the refugees.
+  
+  - The areas covered in the website included; content management system, local installation of WordPress, local servers i.e. using Xampp as a local server, troubleshooting websites, introduction to page builders e.g. elementor, introduction to themes and plugins, and web content strategies. 
+  # long-term
