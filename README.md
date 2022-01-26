@@ -96,5 +96,5 @@ https://www.facebook.com/1415857448508218/posts/4545903232170275/
 
   # Other remarks;
   
-  - The Youth Empowerment Foundation (YEF) applauds r0g-agency  for the opportunity given. YEF was able to train 9 participant to become TOT to led in the community experts, and provide capacity building. We are very grateful for the partnership and are optimistic for more opportunities to work together in the development of media and Technology in the refugee settlement. 
+  - The Youth Empowerment Foundation (YEF) applauds r0g-agency  for the opportunity given. YEF was able to train 9 participants to become TOT to led in the community experts, and provide capacity building. We are very grateful for the partnership and are optimistic for more opportunities to work together in the development of media and Technology in the refugee settlement. 
   
