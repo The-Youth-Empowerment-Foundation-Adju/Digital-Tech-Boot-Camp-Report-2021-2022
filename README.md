@@ -102,12 +102,14 @@ https://www.facebook.com/1415857448508218/posts/4545903232170275/
 # partners and funder
 There are three partners and one funder involved in this great project,these are:
 
-**R0g** (agency for critical transformation and development) which is a lobbying partner, lobbying financial support from the funder,located in berlin Germany
+**r0g** (agency for critical transformation and development) which is a lobbying partner, lobbying financial support from the funder,located in berlin Germany
 
 **r0g_open_culture**
+
 The r0g _agency (pronounced: rogue) is a Berlin-based nonprofit dedicated to partnering with local grassroots organizations and governments to support open knowledge, open technology, and peacebuilding efforts in the Global South, particularly those regions undergoing rapid and fundamental transformation, in order to support the development of healthy, peaceful societies.
 
 The word ‘open’ is borrowed from the tech world and is used to describe something (texts, software, technology, information) that is accessible by the general public, and is free to be used and redistributed without legal or technological restrictions, removing barriers that might otherwise stand between individuals and the information they need
+
 **ASKnet** (Access to skills and knowledge network) which is the support partner for projects under the funding scheme also in berlin and lastly
 
 **YEF** (The Youth Empowerment Foundation) the implementing partner located in pagirinya refugee camp in northern Uganda.
