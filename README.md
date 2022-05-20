@@ -102,7 +102,7 @@ https://www.facebook.com/1415857448508218/posts/4545903232170275/
 # partners and funder
 There are three partners and one funder involved in this great project,these are:
 
-**r0g** (agency for critical transformation and development) which is a lobbying partner, lobbying financial support from the funder,located in berlin Germany
+**r0g** (agency for critical transformation and development) which is a lobbying partner, lobbying financial support from the funder."**Who are they**"? 
 
 **r0g_open_culture**
 
