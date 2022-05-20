@@ -111,8 +111,8 @@ There are three partners and one funder involved in this great project,these are
 **BMz** (Federal ministry of economic cooperation and development) in Germany,this is the funder of the great project bringing great changes and smiles in the faces of refugee Youths who are benefiting from it.
 
 For more information on the partners and funder,click on the link to their official websites bellow.
-|BMZ logo |R0g logo|ASKnet logo|YEF logo|
-|:------:|:-----|:-----|:-----|
+|BMZ  |r0g agency|ASKnet| YEF |
+|:----:|:-------:|:-----|:----:|
 |![](Images/founder_BMZ.jpg)|
 # Other remarks
   
