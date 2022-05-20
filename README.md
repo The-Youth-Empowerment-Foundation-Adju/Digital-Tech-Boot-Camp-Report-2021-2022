@@ -107,7 +107,10 @@ There are three partners and one funder involved in this great project,these are
 **ASKnet** (Access to skills and knowledge network) which is the support partner for projects under the funding scheme also in berlin and lastly
 
 **YEF** (The Youth Empowerment Foundation) the implementing partner located in pagirinya refugee camp in northern Uganda.
+
 **BMz** (Federal ministry of economic cooperation and development) in Germany,this is the funder of the great project bringing great changes and smiles in the faces of refugee Youths who are benefiting from it.
+
+For more information on the partners and funder,click on the link to their official websites bellow.
 
 # Other remarks
   
