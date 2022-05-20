@@ -35,7 +35,7 @@ The trainees demonstrated the ability to comfortably use GitHub as a collaborati
 
 In the tenth week, the lead trainer started the basics of web design which was covered up to week eight.
 
-In the Eleventh week, another expert <KasiryeLabs> was invited for 3 days of hands-on training in WordPress ,web development and content management.
+In the Eleventh week, another expert **KasiryeLabs** was invited for **3 days of hands-on training on WordPress** ,**web development and content management**.
   
 The areas covered in the website included; content management system, local installation of WordPress, local servers i.e. using Xamp as a local server, troubleshooting websites, introduction to page builders e.g. elementor, introduction to themes and plugins, and web content strategies. 
  
