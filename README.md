@@ -114,7 +114,7 @@ For more information on the partners and funder,click on the link to their offic
 |BMZ  |r0g agency|ASKnet| YEF |
 |:----:|:-------:|:-----|:----:|
 |![](Images/founder_BMZ.jpg)|![](Images/r0g_logo.png)|![](Images/asknet-logo.png)|![](Images/yef-logo.jpeg)|
-|[Official website](https://www.bmz.de/en)|
+|[Official website](https://www.bmz.de/en)|[Official website](https://openculture.agency/)|
 # Other remarks
   
   - **The Youth Empowerment Foundation** **(YEF)** applauds **r0g**-**(agency for critical transformation and development)** for lobbying for such a great opportunity. **YEF** was able to **train 9** participants to become **(Trainer of trainees)** **TOT** to led in the community as experts, and provide **capacity building**. We are very grateful for the **partnership** and are **optimistic** for more opportunities to work together in the development of **media and Technology** in the refugee settlement. 
