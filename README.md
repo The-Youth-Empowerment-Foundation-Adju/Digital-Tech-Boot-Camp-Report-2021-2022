@@ -28,6 +28,7 @@ In the third week,they were introduced to coding basics and web development whic
 In the eighth week, they covered the introduction to Git and GitHub use by Hakim from Carlton University in form of a workshop which was done virtually. 
 
 In the ninth week, workshop II was conducted in-person to train the participants in GitHub uses.
+![](IMG_20220124_185423_803.jpg)
 
 The trainees learned to create Repositories, fork, create files in GitHub repository, commit changes in GitHub, GitHub issues, pull requests, merge pull requests, Branches, markdown files. 
 
