@@ -110,7 +110,14 @@ The r0g _agency (pronounced: rogue) is a Berlin-based nonprofit dedicated to par
 
 The word ‘open’ is borrowed from the tech world and is used to describe something (texts, software, technology, information) that is accessible by the general public, and is free to be used and redistributed without legal or technological restrictions, removing barriers that might otherwise stand between individuals and the information they need
 
-**ASKnet** (Access to skills and knowledge network) which is the support partner for projects under the funding scheme also in berlin and lastly
+**ASKnet** (Access to skills and knowledge network). "**who is ASKnet**"?
+
+**ASKnet** is a network of hubs and community members who subscribe to the vision of;
+
+*Educating on media literacy*.
+*Creating communities with hands on experience while providing open access to skills and knowledge* that can *impact a community using the available resources*
+
+So **ASKnet** has projects ready,look for funding through **r0g** and pass them to implementing partners like in this case **YEF**.
 
 **YEF** (The Youth Empowerment Foundation) the implementing partner located in pagirinya refugee camp in northern Uganda.
 
