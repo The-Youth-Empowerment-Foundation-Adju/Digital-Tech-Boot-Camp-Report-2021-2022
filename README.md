@@ -52,7 +52,7 @@ The areas covered in the website included; ***content management system***, ***l
   
   - The trainees demonstrated the ability to comfortably use GitHub as a collaborating software for knowledge sharing, they used it to document the web development training guide to make it accessible to the refugees.
   
-  - The areas covered in the website included; content management system, local installation of WordPress, local servers i.e. using Xampp as a local server, troubleshooting websites, introduction to page builders e.g. elementor, introduction to themes and plugins, and web content strategies. 
+  - The areas covered in the website included; *content management system*, *local installation of WordPress*, *local servers* e.g *using Xampp as a local server*, *troubleshooting websites*, *introduction to page builders* e.g. *elementor*, *introduction to themes and plugins*, and web *content strategies*. 
   
 # long-term
   
