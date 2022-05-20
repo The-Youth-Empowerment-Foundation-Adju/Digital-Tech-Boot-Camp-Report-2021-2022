@@ -27,6 +27,7 @@ The boot camp started with an orientaion of the participants to the program as a
 In the third week,they were introduced to coding basics and web development which lasted five weeks
 
 In the eighth week, they covered the introduction to Git and GitHub use by Hakim from Carlton University in form of a workshop which was done virtually. 
+![](Images/IMG_20220520_212807_020.jpg)
 
 In the ninth week, workshop II was conducted in-person to train the participants in GitHub uses.
 ![](IMG_20220124_185423_803.jpg)
