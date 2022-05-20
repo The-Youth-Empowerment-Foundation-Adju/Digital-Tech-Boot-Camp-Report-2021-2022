@@ -111,7 +111,8 @@ There are three partners and one funder involved in this great project,these are
 **BMz** (Federal ministry of economic cooperation and development) in Germany,this is the funder of the great project bringing great changes and smiles in the faces of refugee Youths who are benefiting from it.
 
 For more information on the partners and funder,click on the link to their official websites bellow.
-
+|BMZ logo |R0g logo|ASKnet logo|YEF logo|
+|:--------:|:--------|:--------|:--------|
 # Other remarks
   
   - **The Youth Empowerment Foundation** **(YEF)** applauds **r0g**-**(agency for critical transformation and development)** for lobbying for such a great opportunity. **YEF** was able to **train 9** participants to become **(Trainer of trainees)** **TOT** to led in the community as experts, and provide **capacity building**. We are very grateful for the **partnership** and are **optimistic** for more opportunities to work together in the development of **media and Technology** in the refugee settlement. 
