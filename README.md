@@ -22,7 +22,7 @@ Mr Vuga William,ED,Vugawilly@gmail.com
 Mr Ira Emmanuel,Programs Manager,iraemman@gmail.com
 ## The overall project assessment
 The boot camp started with an orientaion of the participants to the program as a kick off to the training, this was followed by one week basic computer skills assessed by the lead trainer.
-![](IMG_20220124_185430_762.jpg) ![](IMG_20220124_185456_749.jpg) ![](IMG_20220124_185430_762.jpg)
+![](IMG_20220124_185430_762.jpg)  ![](IMG_20220124_185456_749.jpg) ![](IMG_20220124_185430_762.jpg)
 In the third week,they were introduced to coding basics and web development which lasted five weeks
 
 In the eighth week, they covered the introduction to Git and GitHub use by Hakim from Carlton University in form of a workshop which was done virtually. 
