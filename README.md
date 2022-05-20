@@ -35,7 +35,7 @@ The trainees learned to create Repositories, fork, create files in GitHub reposi
 The trainees demonstrated the ability to comfortably use GitHub as a collaborating software for knowledge sharing, they used it to document the web development training guide to make it accessible to the community.
 
 In the tenth week, the lead trainer started the basics of web design which was covered up to week eight.
-![](IMG_20220124_185451_840.jpg)
+![](IMG_20220124_185451_840.jpg) ![](IMG_20220124_185502_821.jpg)
 
 In the Eleventh week, another expert **KasiryeLabs** was invited for **3 days of hands-on training on WordPress** ,**web development and content management**.
 ![](IMG_20220124_185515_794.jpg) ![](IMG_20220124_185510_729.jpg)
