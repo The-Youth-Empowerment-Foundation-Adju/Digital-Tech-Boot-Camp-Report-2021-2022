@@ -90,6 +90,8 @@ The areas covered in the website included; ***content management system***, ***l
   - Some participants were slow to learn; they were given more time to practice which slowed down the training progress ,but  however,we managed to meet the schedule by teaming them up through peer-to-peer learning sessions. 
   
   - The peer-to-peer teaming up has helped the participants to develop working together and sharing skills.
+    
+    ![](Images/IMG_20220520_212553_727.jpg)
   
   - The boot camp training was planned to have 10 participants, however, we enrolled 9 participants due to a shortage of computers for use. We had 6 computers and 3 of the participants came with their own. 
   
