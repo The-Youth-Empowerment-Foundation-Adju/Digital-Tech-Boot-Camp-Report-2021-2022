@@ -114,15 +114,18 @@ The word ‘open’ is borrowed from the tech world and is used to describe some
 
 **ASKnet** is a network of hubs and community members who subscribe to the vision of;
 
-*Educating on media literacy*.
-*Creating communities with hands on experience while providing open access to skills and knowledge* that can *impact a community using the available resources*
+**Educating on media literacy**.
+**Creating communities with hands on experience while providing open access to skills and knowledge** that can **impact a community using the available resources**
 
 So **ASKnet** has projects ready,look for funding through **r0g** and pass them to implementing partners like in this case **YEF**.
 
 **YEF** (The Youth Empowerment Foundation) the implementing partner located in pagirinya refugee camp in northern Uganda. 
 
 "**Who is YEF**"?
+
 The Youth Empowerment Foundation Uganda is **a community based organisation that aims to mobilise and support young people in refugees and host communities** .
+
+"**We equip the youth with relevant media skills to promote freedom of expression and widen access to information while educating young people on media literacy**".
 
 **BMz** (Federal ministry of economic cooperation and development) in Germany,this is the funder of the great project bringing great changes and smiles in the faces of refugee Youths who are benefiting from it.
 
