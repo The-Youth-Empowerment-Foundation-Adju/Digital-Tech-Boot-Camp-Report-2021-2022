@@ -82,6 +82,8 @@ The areas covered in the website included; ***content management system***, ***l
 # Achievements
   
   - The project improved the skills of participants in the use of basic computer applications and internet use. 
+    
+    ![](Images/IMG_20220520_212514_543.jpg)
   
   - The trainer possessed the necessary skills to train, we also invited experts to conduct workshops and the participants demonstrated a willingness to learn.
   
