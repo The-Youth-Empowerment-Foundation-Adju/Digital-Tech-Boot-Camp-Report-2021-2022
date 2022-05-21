@@ -91,21 +91,21 @@ The areas covered in the website included; ***content management system***, ***l
   
   - The boot camp training was planned to have 10 participants, however, we enrolled 9 participants due to a shortage of computers for use. We had 6 computers and 3 of the participants came with their own. 
   
-  - The project has overall archived its objectives, the participants were able to gain knowledge and practices developed website <RefugeeConnect >not hosted online yet, they also learned content creation and publication on the websites, this has helped them understand much better the origin of information online. Thus ,it made them understand how media works.
+  - The project has overall archived its objectives, the participants were able to gain knowledge and practiced by developing website ***RefugeeConnect** not hosted online yet, they also learned ***content creation and publication on the websites***, this has helped them understand much better the ***origin of information online***. Thus ,it made them understand how ***media*** works.
   
-  - They also acquired skills in the use of documentation/ collaborating software GitHub to share knowledge and collaborate in creating programs.
+  - They also acquired skills in the use of ***documentation/ collaborating software GitHub to share knowledge and collaborate*** in creating respository/projects.
   
 # Challenges
   
-  - Some participants were slow to learn; they were **given more time to practice which slowed down the training progress** ,but  however,we managed to meet the schedule by teaming them up through peer-to-peer learning sessions.
+  - Some participants were slow to learn; they were ***given more time to practice which slowed down the training progress*** ,but  however,we managed to meet the schedule by teaming them up through peer-to-peer learning sessions.
   
-  - Most of the trainees had limited exposure to computers **(Majority do not own computers)**, this slowed the training **progress**, we also underestimated the costs for **expert fee**, hence we couldn’t afford to **hire one for App development**. 
+  - Most of the trainees had limited exposure to computers ***(Majority do not own computers)***, this slowed the training ***progress***, we also underestimated the costs for ***expert fee***, hence we couldn’t afford to ***hire one for App development***. 
    
-  - The boot camp training was planned to have **10 participants**, however, we **enrolled 9 participants** due to a **shortage of computers** for use. We had **6 computers** and **3 of the participants came with their own**.
+  - The boot camp training was planned to have ***10 participants***, however, we ***enrolled 9 participants*** due to a ***shortage of computers*** for use. We had ***6 computers*** and ***3 of the participants came with their own***.
   
-  - There was aproblem of **power**,due to **hiking of fuel prices**, It has been a great challenge as working hours reduced with an aim of utilizing the little budget for fuel.
+  - There was aproblem of ***power***,due to ***hiking of fuel prices***, It has been a great challenge as working hours reduced with an aim of utilizing the little budget for fuel.
   
-  - The **training gadgets** were not enough for participants for example **computers**.
+  - The ***training gadgets*** were not enough for participants for example ***computers***.
 
 # Sustainability
   
