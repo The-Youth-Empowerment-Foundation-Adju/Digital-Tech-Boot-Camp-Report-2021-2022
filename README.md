@@ -91,7 +91,7 @@ The areas covered in the website included; ***content management system***, ***l
   
   - The boot camp training was planned to have 10 participants, however, we enrolled 9 participants due to a shortage of computers for use. We had 6 computers and 3 of the participants came with their own. 
   
-  - The project has overall archived its objectives, the participants were able to gain knowledge and practiced by developing website ***RefugeeConnect** not hosted online yet, they also learned ***content creation and publication on the websites***, this has helped them understand much better the ***origin of information online***. Thus ,it made them understand how ***media*** works.
+  - The project has overall archived its objectives, the participants were able to gain knowledge and practiced by developing website ***RefugeeConnect*** not hosted online yet, they also learned ***content creation and publication on the websites***, this has helped them understand much better the ***origin of information online***. Thus ,it made them understand how ***media*** works.
   
   - They also acquired skills in the use of ***documentation/ collaborating software GitHub to share knowledge and collaborate*** in creating respository/projects.
   
