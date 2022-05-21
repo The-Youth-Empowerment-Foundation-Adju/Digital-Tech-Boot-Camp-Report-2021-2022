@@ -109,7 +109,7 @@ The areas covered in the website included; ***content management system***, ***l
 
 # Sustainability
   
-  - The participants have formed a network of experts on web developments,We will facilitate them with computers,power,space and market them to the business entities and other community based organizations to build them website.The website they built< RefugeesConnect> will generate them money in adverts to keep it running by host fee renewal.
+  - The participants have formed a network of experts on web development and we are willing to facilitate them with ***computers***,***power***,***space*** and ***market*** them to the ***business entities*** and ***other community based organizations to build them websites***. The website they built ***Refugeeconnect*** will generate them through ***adverts*** to keep it running by host fee renewal.
   
 # Public Relations
    
