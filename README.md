@@ -1,4 +1,4 @@
-# Digital-Tech-Boot-Camp-Report-2021-2022
+# Title:Digital-Tech-Boot-Camp-Report-2021-2022
 
 Digital Tech Boot  Camp is an initiative and training opportunity for young people with **basic computer knowledge to learn  programming languages and built products to solve local challenges** .And also to fully understand the functionalities of knowledge sharing,such as **soft wares/applications like github,build websites for information sharing** .All successful trainees shall become mentors to thers who shall be recruited to expand the network of **ASKnet** peers."**Accelerating access to info and community collaboration/co-creation for innovation**.
 ![](IMG_20220124_183742_360.jpg) ![](Images/IMG_20220520_212748_166.jpg)
