@@ -119,7 +119,10 @@ The word ‘open’ is borrowed from the tech world and is used to describe some
 
 So **ASKnet** has projects ready,look for funding through **r0g** and pass them to implementing partners like in this case **YEF**.
 
-**YEF** (The Youth Empowerment Foundation) the implementing partner located in pagirinya refugee camp in northern Uganda.
+**YEF** (The Youth Empowerment Foundation) the implementing partner located in pagirinya refugee camp in northern Uganda. 
+
+"**Who is YEF**"?
+The Youth Empowerment Foundation Uganda is **a community based organisation that aims to mobilise and support young people in refugees and host communities** .
 
 **BMz** (Federal ministry of economic cooperation and development) in Germany,this is the funder of the great project bringing great changes and smiles in the faces of refugee Youths who are benefiting from it.
 
